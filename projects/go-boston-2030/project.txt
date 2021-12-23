@@ -1,0 +1,14 @@
+title: Boston Strategic Mobility Plan
+-
+cat: TRANSPORTATION, INFORMATION DESIGN, STRATEGIC PLAN
+-
+date: July 2014 - Dec 2015
+-
+client: Boston Transportation Department
+-
+role: Lead Designer
+-
+keywords: Data Visualization, Transportation Planning, Public Engagement
+-
+content: 
+I worked with Nelson Nygaard (transportation planning) and IISC (public engagement) on Boston's 20-year strategic mobility plan for the entire city. I led the effort to collect, analyze, and visualize data in order to communicate and predict the complex mobility needs of the city in the future. I developed digital tools to clarify these issues both to transportation professionals and the larger public. The resulting insights shed light not only on transportation per se, but also on the complex relationship between physical and economic mobility, equity, and environmental justice.
