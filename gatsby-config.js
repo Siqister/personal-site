@@ -1,7 +1,7 @@
 module.exports = {
   siteMetadata: {
-    siteUrl: "https://www.yourdomain.tld",
-    title: "Siqi Zhu: INPUT / OUTPUT",
+    siteUrl: "https://siqizhu.net",
+    title: "Siqi Zhu: Input / Output",
   },
   plugins: [
     "gatsby-plugin-image",
@@ -15,6 +15,7 @@ module.exports = {
             resolve: "gatsby-remark-images",
             options: {
               maxWidth: 1200,
+              showCaptions: true,
             }
           }
         ]

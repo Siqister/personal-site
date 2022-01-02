@@ -79,6 +79,7 @@ export const query = graphql`
 			frontmatter{
 				title
 				date
+				date_end
 				client
 				tags
 			}

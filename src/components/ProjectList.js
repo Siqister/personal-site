@@ -16,7 +16,7 @@ const tagStyle = {
 
 const Project = ({ data }) => {
 
-	const {tags, title, date, thumb} = data.frontmatter;
+	const {tags, title, title_short, date, thumb} = data.frontmatter;
 	const image = getImage(thumb);
 	
 	return (
@@ -29,7 +29,7 @@ const Project = ({ data }) => {
 				)}
 			</div>
 			<Link to={`/${data.slug}`}>
-				<h3>{title}</h3>
+				<h3>{title_short ? title_short:title}</h3>
 				{
 					thumb.childImageSharp?
 					<GatsbyImage image={image} title={title} alt={title}/>:

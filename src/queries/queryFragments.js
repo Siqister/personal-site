@@ -6,6 +6,7 @@ export const ProjectQueryFragment = graphql`
 		id
 		frontmatter {
 			title
+			title_short
 			date
 			tags
 			thumb {

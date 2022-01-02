@@ -17,7 +17,7 @@ return  <div
     }}
     className='header'
   >
-    <h1 style={{ margin: 0 }}>
+    <h1 style={{ margin: 0, textTransform: 'uppercase' }}>
       <Link to="/">
         {`: input / output :`}
       </Link>
