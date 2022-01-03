@@ -47,7 +47,7 @@ const ProjectPage = ({ data }) => {
 							<dd>
 								<ul style={{ listStyle:'none' }}>
 							{
-								frontmatter.tags.map(tag => 
+								frontmatter.tags&&frontmatter.tags.map(tag => 
 									<li key={tag}>
 										<span className='tag'>
 											<Link to={`/tags/${_.kebabCase(tag)}`} >{tag}</Link>
