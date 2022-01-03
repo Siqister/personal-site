@@ -1,0 +1,8 @@
+title: NEU Vis Tech
+-
+cat:INFORMATION DESIGN, TEACHING
+-
+date: September 2014 - Present
+-
+content: 
+I have been teaching a series of graduate-level classes in information design and visualization technologies at Northeastern University. The classes teaches students with diverse backgrounds how to operationalize information design best practices with the latest frontend technologies (d3, ES6 etc.). In the advanced classes, I have worked with students to study urban complexity and issues of equity through the lens of information design. Student projects have examined a broad range of issues including municipal service provision (311), Airbnb, usage patterns of bike share programs, and housing affordability.
