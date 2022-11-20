@@ -26,8 +26,6 @@ const AboutPage = ({ data }) => {
 						style={{ fontWeight:'lighter' }}
 					>
 						<dl>
-							<dt className='meta'>For download</dt>
-							<dd><a href={node.frontmatter.resume.publicURL}>Resume</a></dd>
 							<dt className='meta'>Find me elsewhere</dt>
 							<dd>
 								<ul style={{ listStyle:'none' }}>
